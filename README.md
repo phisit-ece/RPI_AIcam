@@ -1,3 +1,3 @@
 # RPI_AIcam
 
-This project use Raspberry PI AI Camera.
+This project use Raspberry Pi AI Camera for uploading from Raspberry Pi.
